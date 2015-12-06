@@ -1,0 +1,28 @@
+name: Ambient Futures
+favicon: null
+layout_spectrum: 0.844784201355651
+typography_spectrum: 0.6584765953011811
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3212492256425321
+  lightness: 0.2621729525271803
+  saturation: 0.5621837896760553
+  rhythmicContrast: 0.7803030116483569
+purpose: []
